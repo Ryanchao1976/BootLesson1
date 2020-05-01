@@ -1,4 +1,4 @@
-package com.ryan.boot.learn1.demo;
+package com.ryan.boot.learn1;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
